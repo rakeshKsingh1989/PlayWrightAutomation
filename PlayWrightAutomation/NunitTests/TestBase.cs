@@ -14,7 +14,12 @@ namespace PlayWrightAutomation.NunitTests
         {
             // Reuse the global browser, but create a fresh context/page per test
             IContext = GlobalSetup.Browser
-                .NewContextAsync()
+                .NewContextAsync(new BrowserNewContextOptions
+                {
+                    ViewportSize=null,
+                   
+                    //ViewportSize = new ViewportSize { Width = 1920, Height = 1080 }
+                })
                 .GetAwaiter()
                 .GetResult();
 

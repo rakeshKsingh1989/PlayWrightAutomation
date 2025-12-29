@@ -16,7 +16,10 @@ namespace PlayWrightAutomation.NunitTests
             Playwright = Microsoft.Playwright.Playwright.CreateAsync().GetAwaiter().GetResult();
             Browser = Playwright.Chromium.LaunchAsync(new BrowserTypeLaunchOptions
             {
-                Headless = false
+                Headless = false,
+                Channel = "chrome", // or "msedge" for Edge
+                Args = new[] { "--start-maximized" }
+
             }).GetAwaiter().GetResult();
         }
 
