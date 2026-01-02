@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{B8E8B850-19B2-4501-8AE5-84F6A862CA74}|PlayWrightAutomation.csproj|solutionrelative:nunittests\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8E8B850-19B2-4501-8AE5-84F6A862CA74}|PlayWrightAutomation.csproj|c:\\projects\\playwrightframework\\playwrightautomation\\playwrightautomation\\nunittests\\globalsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8E8B850-19B2-4501-8AE5-84F6A862CA74}|PlayWrightAutomation.csproj|solutionrelative:nunittests\\globalsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B8E8B850-19B2-4501-8AE5-84F6A862CA74}|PlayWrightAutomation.csproj|c:\\projects\\playwrightframework\\playwrightautomation\\playwrightautomation\\nunittests\\exampletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8E8B850-19B2-4501-8AE5-84F6A862CA74}|PlayWrightAutomation.csproj|solutionrelative:nunittests\\exampletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E8B850-19B2-4501-8AE5-84F6A862CA74}|PlayWrightAutomation.csproj|c:\\projects\\playwrightframework\\playwrightautomation\\playwrightautomation\\nunittests\\globalsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E8B850-19B2-4501-8AE5-84F6A862CA74}|PlayWrightAutomation.csproj|solutionrelative:nunittests\\globalsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8E8B850-19B2-4501-8AE5-84F6A862CA74}|PlayWrightAutomation.csproj|c:\\projects\\playwrightframework\\playwrightautomation\\playwrightautomation\\playwrightautomation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -48,27 +48,26 @@
               "RelativeDocumentMoniker": "NunitTests\\TestBase.cs",
               "ToolTip": "C:\\Projects\\PlayWrightFramework\\PlayWrightAutomation\\PlayWrightAutomation\\NunitTests\\TestBase.cs",
               "RelativeToolTip": "NunitTests\\TestBase.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-29T13:49:51.456Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GlobalSetup.cs",
               "DocumentMoniker": "C:\\Projects\\PlayWrightFramework\\PlayWrightAutomation\\PlayWrightAutomation\\NunitTests\\GlobalSetup.cs",
               "RelativeDocumentMoniker": "NunitTests\\GlobalSetup.cs",
               "ToolTip": "C:\\Projects\\PlayWrightFramework\\PlayWrightAutomation\\PlayWrightAutomation\\NunitTests\\GlobalSetup.cs",
               "RelativeToolTip": "NunitTests\\GlobalSetup.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:38:08.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T13:38:08.043Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ExampleTests.cs",
               "DocumentMoniker": "C:\\Projects\\PlayWrightFramework\\PlayWrightAutomation\\PlayWrightAutomation\\NunitTests\\ExampleTests.cs",
               "RelativeDocumentMoniker": "NunitTests\\ExampleTests.cs",
